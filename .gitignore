@@ -1,0 +1,9 @@
+/out
+/art
+/include
+/.vscode
+
+*.rbxlx
+*.rbxl
+
+*.env
